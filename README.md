@@ -1,9 +1,9 @@
 # GenAI Bureaucracy Killer
-Automating Brazil's red tape: 35% of public payroll (R$420B/yr) on forms (TCU 2023).
+Automating Brazil’s red tape: 35% of public payroll (R$420B/yr) on forms (TCU 2023).
 
-# GenAI Bureaucracy Killer
+# Triage Diagram 
 
-<image-card alt="Triage Flow" src="diagram.png" ></image-card>
+![Triage Flow](diagram.png)
 
 ## Next: Prototype
 Coming: Python script for DETRAN forms.
