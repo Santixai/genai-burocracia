@@ -3,7 +3,8 @@ Automating Brazil’s red tape: 35% of public payroll (R$420B/yr) on forms (TCU 
 
 # Triage Diagram 
 
-![Triage Flow](diagram.png)
+![Triage Flow](https://github.com/Santixai/genai-burocracia/blob/main/diagram.png?raw=true)
+
 
 ## Next: Prototype
 Coming: Python script for DETRAN forms.
