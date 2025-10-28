@@ -1,10 +1,9 @@
 # GenAI Bureaucracy Killer
-
-<image-card alt="Triage Flow" src="<img width="2613" height="1586" alt="bureaucracy-triage" src="https://github.com/user-attachments/assets/eaae975a-ed85-48bf-883b-ddecdc5a3010" />
-.png" ></image-card>
+Automating Brazil's red tape: 35% of public payroll (R$420B/yr) on forms (TCU 2023).
 
 ## Triage Flow
-See diagram below. LLM auto-fills 80%, law-bot flags 15%, humans veto 5%.
+
+<image-card alt="Triage Flow" src="bureaucracy-triage.png" ></image-card>
 
 ## Next: Prototype
 Coming: Python script for DETRAN forms.
