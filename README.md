@@ -3,7 +3,7 @@ Automating Brazil’s red tape: 35% of public payroll (R$420B/yr) on forms (TCU 
 
 # Triage Diagram 
 
-![Triage Flow](https://github.com/Santixai/genai-burocracia/blob/main/mermaid-diagram.svg?raw=true)
+![Triage Flow](https://github.com/Santixai/genai-burocracia/blob/main/mermaid-diagram.png?raw=true)
 
 
 ## Next: Prototype
